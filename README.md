@@ -1,11 +1,11 @@
 # coolpoco
 
+めんどぐさがりやの出退勤を世界一スマートにする
 
-<img src="http://art22.photozou.jp/pub/172/336172/photo/62817110_624.v1554706871.jpg" width="300">
+<img src="http://art22.photozou.jp/pub/172/336172/photo/62817110_624.v1554706871.jpg" width="150">
 
 ----
 
-めんどぐさがりやの出退勤を世界一スマートにする
 
 
 ## How to setup for developers.
