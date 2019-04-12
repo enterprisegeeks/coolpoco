@@ -10,7 +10,19 @@
 
 ## How to setup for developers.
 
-### build python env.
+### fork repository.
+
+* push [fork] button in https://github.com/enterprisegeeks/coolpoco 
+
+### checkout your coolpoco repository and make branch.
+
+```
+git clone https://github.com/<your name/coolpoco.git
+cd coolpoco
+git checkout -b <branch name should be descriptive>
+```
+
+### setup python env when you want to use..
 
 ```
 sudo apt install pipenv
