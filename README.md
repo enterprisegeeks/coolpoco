@@ -21,7 +21,7 @@
 ### checkout your coolpoco repository and make branch.
 
 ```
-git clone https://github.com/<your name/coolpoco.git
+git clone https://github.com/<your name>/coolpoco.git
 cd coolpoco
 git checkout -b <branch name should be descriptive>
 ```
