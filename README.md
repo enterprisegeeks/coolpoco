@@ -2,7 +2,6 @@
 
 めんどぐさがりやの出退勤を世界一スマートにする
 
-
 [![Python 3.7](https://img.shields.io/badge/python-3.7-red.svg)](https://www.python.org/downloads/release/python-360/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
@@ -22,7 +21,7 @@
 ### checkout your coolpoco repository and make branch.
 
 ```
-git clone https://github.com/<your name/coolpoco.git
+git clone https://github.com/<your name>/coolpoco.git
 cd coolpoco
 git checkout -b <branch name should be descriptive>
 ```
@@ -40,6 +39,20 @@ pipenv install -d
 ```
 cd $THIS_REPO
 pipenv shell
+```
+
+### How to encrypt/decrypt file.
+
+```
+# encrypt
+ansible-value encrypt sample/punch/punch.inc
+Valut password: xxx
+
+# encrypt
+ansible-value encrypt sample/punch/punch.inc
+New Vault password: xxx
+Confirm New Vault password:xxx
+Encryption successful
 ```
 
 
