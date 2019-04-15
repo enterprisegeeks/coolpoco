@@ -10,6 +10,7 @@ Welcome to coolpoco's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   /contents/01_01_architecture.rst
 
              
 
