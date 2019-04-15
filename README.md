@@ -26,10 +26,17 @@ cd coolpoco
 git checkout -b <branch name should be descriptive>
 ```
 
-### setup python env when you want to use..
+### setup pipenv
 
 ```
 sudo apt install pipenv
+cd $THIS_REPO
+pipenv install -d
+```
+
+### change python env when you want to use...
+
+```
 cd $THIS_REPO
 pipenv shell
 ```
