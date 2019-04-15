@@ -41,6 +41,20 @@ cd $THIS_REPO
 pipenv shell
 ```
 
+### How to encrypt/decrypt file.
+
+```
+# encrypt
+ansible-value encrypt sample/punch/punch.inc
+Valut password: xxx
+
+# encrypt
+ansible-value encrypt sample/punch/punch.inc
+New Vault password: xxx
+Confirm New Vault password:xxx
+Encryption successful
+```
+
 
 ## How to build sphinx-documents.
 
