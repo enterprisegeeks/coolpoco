@@ -31,3 +31,13 @@ component responsibility
 * reST Build/Deploy（ph1-1.5 Github・Cloud Build/Sphinx・Cloud Storage）
 * RasPiソフトウェア配信（ph1.5 依存ライブラリ更新＋APP配信＋制御ファイル配信＋定時アップデート）
 
+|
+|
+|
+  
+cloud architecture
+=============================
+
+.. image:: ../_static/images/02_04_002.svg
+ :scale: 60
+
