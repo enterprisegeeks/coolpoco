@@ -10,7 +10,8 @@ Welcome to coolpoco's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   /contents/01_01_architecture.rst
+   /contents/01_product_overview.rst
+   /contents/02_00_component.rst
 
              
 

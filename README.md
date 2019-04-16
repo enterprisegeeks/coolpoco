@@ -1,9 +1,11 @@
 # coolpoco
 
-めんどぐさがりやの出退勤を世界一スマートにする
-
 [![Python 3.7](https://img.shields.io/badge/python-3.7-red.svg)](https://www.python.org/downloads/release/python-360/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+めんどぐさがりやの出退勤を世界一スマートにする
+
+https://coolpoco.readthedocs.io/ja/latest/
 
 
 <img src="http://art22.photozou.jp/pub/172/336172/photo/62817110_624.v1554706871.jpg" width="150">
