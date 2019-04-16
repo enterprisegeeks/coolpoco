@@ -47,11 +47,11 @@ pipenv shell
 
 ```
 # encrypt
-ansible-value encrypt sample/punch/punch.inc
+ansible-value encrypt file_to_encrypt_you_want
 Valut password: xxx
 
 # encrypt
-ansible-value encrypt sample/punch/punch.inc
+ansible-value encrypt file_to_decrypt_you_want
 New Vault password: xxx
 Confirm New Vault password:xxx
 Encryption successful
